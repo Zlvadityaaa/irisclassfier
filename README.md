@@ -1,0 +1,2 @@
+# irisclassfier
+metode iris
